@@ -1,6 +1,8 @@
 # quizo
 
 A new Flutter project.
+![quizo](https://user-images.githubusercontent.com/84202263/192818433-9b4ca021-4e42-49c5-9639-8bb2a287aada.gif)
+
 
 ## Getting Started
 
