@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ![quizo](https://user-images.githubusercontent.com/84202263/192818433-9b4ca021-4e42-49c5-9639-8bb2a287aada.gif)
+![quizo1](https://user-images.githubusercontent.com/84202263/192818896-880b42bb-c33e-4159-9be3-bd25cc150571.gif)
+
 
 
 ## Getting Started
